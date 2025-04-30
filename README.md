@@ -78,7 +78,7 @@ git clone https://github.com/aric1605/ParkiScan-A-Machine-Learning-Approach-to-P
 
 2. Install dependencies:
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 3. Run!!
 
