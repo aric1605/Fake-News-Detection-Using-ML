@@ -73,19 +73,14 @@ Each model was trained and evaluated using cross-validation techniques. Accuracy
 
 1. Clone this repo:
 ```bash
-git clone https://github.com/your-username/parkinson-detection.git
-cd parkinson-detection
+git clone https://github.com/aric1605/ParkiScan-A-Machine-Learning-Approach-to-Parkinson-s-Disease-Detection.git
 ```
 
 2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-
-3. Run the Streamlit app:
-```bash
-streamlit run app.py
-```
+3. Run!!
 
 ---
 
