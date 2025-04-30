@@ -1,0 +1,10 @@
+requests==2.28.1
+pandas==1.5.3
+imbalanced-learn==0.9.1
+seaborn==0.11.2
+matplotlib==3.6.2
+numpy==1.23.4
+scikit-learn==1.0.2
+xgboost==1.7.5
+joblib==1.1.0
+ipython==7.34.0
