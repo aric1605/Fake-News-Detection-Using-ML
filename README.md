@@ -1,6 +1,6 @@
 <!-- Cover Image -->
 <p align="center">
-  <img src="assets/cover.png" alt="Parkinson's Disease Detection Project Cover" width="100%">
+  <img src="assets/cover.png" alt="Parkinson's Disease Detection Project Cover" width="60%">
 </p>
 
 <h1 align="center">🧠 Parkinson's Disease Detection using Machine Learning</h1>
